@@ -1,1 +1,1 @@
-This is a readme file for the GitHubRepoAssignemnt.
+This is a readme file for the GitHubRepoAssignment.
